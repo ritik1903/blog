@@ -1,0 +1,21 @@
+.bg-primary{
+background:#000080!important;
+}
+.mt20{
+margin-top:20px;
+}
+
+.owl-carousel .owl-stage {
+    display: flex;
+}
+
+.owl-carousel .owl-item img {
+    width: auto;
+    height: 100%;
+}
+
+.container-custom{
+width:90%!important;
+margin:auto;
+}
+
